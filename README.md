@@ -12,7 +12,7 @@
         personalProject = "bit.ly/weather-twin"
     )
 ```
-👨‍💻 I’m currently studying at **Haaga-Helia university of applied sciences** in **Helsinki, Finland**
+👨‍💻 I’m currently studying at **Haaga-Helia University of Applied Sciences** in **Helsinki, Finland**  <img src="./FI.svg" width="20px" heigth="20px">
 
 ☀️ Check my personal project **[Weather Twin](https://devaajanne.github.io/weathertwin-client/)**
 
