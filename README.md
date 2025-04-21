@@ -9,7 +9,6 @@
         strengths = mutableListOf("communication", "teamwork", "problem-solving"),
         experience = mutableListOf("customer advising", "training", "project management"),
         funToWorkWith = true,
-        personalProject = "bit.ly/weather-twin"
     )
 ```
 👨‍💻 I’m currently studying at **Haaga-Helia University of Applied Sciences** in **Helsinki, Finland**  <img src="./FI.svg" width="20px" heigth="20px">
