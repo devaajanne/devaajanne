@@ -2,14 +2,14 @@
 <h3 align="center">Your lawful good future software developer</h3>
 
 ```kotlin
-    val yourNextDeveloper: Developer = Developer(
-        name = "Janne Airaksinen",
-        basedIn = "Helsinki, Finland"
-        skills = mutableListOf("Java", "Kotlin", "JavaScript", "React", "SQL"),
-        strengths = mutableListOf("communication", "teamwork", "problem-solving"),
-        experience = mutableListOf("customer advising", "training", "project management"),
-        funToWorkWith = true,
-    )
+val yourNextDeveloper: Developer = Developer(
+    name = "Janne Airaksinen",
+    basedIn = "Helsinki, Finland"
+    skills = mutableListOf("Java", "Kotlin", "JavaScript", "React", "SQL"),
+    strengths = mutableListOf("communication", "teamwork", "problem-solving"),
+    experience = mutableListOf("customer advising", "training", "project management"),
+    funToWorkWith = true,
+)
 ```
 👨‍💻 I’m currently studying at **Haaga-Helia University of Applied Sciences** in **Helsinki, Finland**  <img src="./FI.svg" width="20px" heigth="20px">
 
