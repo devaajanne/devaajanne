@@ -17,12 +17,12 @@ val yourNextDeveloper: Developer = Developer(
 
 📃 All of my projects are available at my **[projects page](https://github.com/devaajanne/projects)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 
 [![LinkedIn][linkedin-logo]][linkedin-url]
 [![Gmail][gmail-logo]][gmail-url]
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My languages and tools</h3>
 
 [![Java][java-logo]][java-url]
 [![Kotlin][kotlin-logo]][kotlin-url]
