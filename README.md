@@ -31,13 +31,22 @@ val yourNextDeveloper: Developer = Developer(
 ![SQL][sql-logo]
 [![HTML][html-logo]][html-url]
 [![JavaScript][javascript-logo]][javascript-url]
+[![TypeScript][typescript-logo]][typescript-url]
 [![React][react-logo]][react-url]
+[![i18next][i18next-logo]][i18next-url]
 [![Git][git-logo]][git-url]
 [![GitHub][github-logo]][github-url]
+[![GitHub Actions][github-actions-logo]][github-actions-url]
 [![Visual Studio Code][vs-code-logo]][vs-code-url]
 [![IntelliJ IDEA][intellij-idea-logo]][intellij-idea-url]
+[![Heroku][heroku-logo]][heroku-url]
+[![Jira][jira-logo]][jira-url]
+[![Docker][docker-logo]][docker-url]
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaajanne&show_icons=true&theme=dark&locale=en&layout=compact" alt="devaajanne" /></p>
+
+
+[badges-repo]: https://github.com/inttter/md-badges
 
 [linkedin-logo]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/janair/
@@ -56,13 +65,25 @@ val yourNextDeveloper: Developer = Developer(
 [html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [javascript-logo]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge
 [javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[typescript-logo]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge
+[typescript-url]: https://www.typescriptlang.org/
 [react-logo]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge
 [react-url]: https://react.dev/
+[i18next-logo]: https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=fff&style=for-the-badge
+[i18next-url]: https://www.i18next.com/
 [github-logo]: https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge
 [github-url]: https://github.com/
 [git-logo]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [git-url]: https://git-scm.com/
+[github-actions-logo]: https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge
+[github-actions-url]: https://github.com/features/actions
 [vs-code-logo]: https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge
 [vs-code-url]: https://code.visualstudio.com/
 [intellij-idea-logo]: https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge
 [intellij-idea-url]: https://www.jetbrains.com/idea/
+[heroku-logo]:https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe&style=for-the-badge
+[heroku-url]:https://www.heroku.com/
+[jira-logo]: https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge
+[jira-url]: https://www.atlassian.com/software/jira
+[docker-logo]: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge
+[docker-url]: https://www.docker.com/
