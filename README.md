@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Janne</h1>
-<h3 align="center">Your lawful good future software developer</h3>
+<h3 align="center">Your lawful good software developer</h3>
 
 ```kotlin
 val yourNextDeveloper: Developer = Developer(
