@@ -7,11 +7,13 @@ val yourNextDeveloper: Developer = Developer(
     basedIn = "Helsinki, Finland"
     skills = mutableListOf("Java", "Kotlin", "JavaScript", "React", "SQL"),
     strengths = mutableListOf("communication", "teamwork", "problem-solving"),
-    experience = mutableListOf("customer advising", "training", "project management"),
+    experience = mutableListOf("software development", "customer advising", "training"),
     funToWorkWith = true,
 )
 ```
-👨‍💻 I’m currently studying at **Haaga-Helia University of Applied Sciences** in **Helsinki, Finland**  <img src="./FI.svg" width="20px" heigth="20px">
+👨‍💻 Currently finishing my software development studies at **Haaga-Helia University of Applied Sciences** in **Helsinki, Finland**  <img src="./FI.svg" width="20px" heigth="20px">
+
+🌟 Experience from study projects and summer software developer traineeship
 
 💼 Now open to work!
 
