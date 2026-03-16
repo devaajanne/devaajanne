@@ -15,8 +15,6 @@ val yourNextDeveloper: Developer = Developer(
 
 🌟 Experience from study projects and summer software developer traineeship
 
-💼 Now open to work!
-
 ☀️ Check my personal project **[Weather Twin](https://devaajanne.github.io/weathertwin/)**
 
 📃 All of my projects are available at my **[projects page](https://github.com/devaajanne/projects)**
@@ -24,7 +22,6 @@ val yourNextDeveloper: Developer = Developer(
 <h3 align="left">Connect with me</h3>
 
 [![LinkedIn][linkedin-logo]][linkedin-url]
-[![Gmail][gmail-logo]][gmail-url]
 
 <h3 align="left">My languages and tools</h3>
 
@@ -54,8 +51,6 @@ val yourNextDeveloper: Developer = Developer(
 
 [linkedin-logo]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/janair/
-[gmail-logo]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:janne.airaksinen.mail@gmail.com
 [java-logo]: https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge
 [java-url]: https://www.java.com/en/
 [kotlin-logo]: https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white
