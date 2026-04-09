@@ -38,8 +38,9 @@ val yourNextDeveloper: Developer = Developer(
 [![Git][git-logo]][git-url]
 [![GitHub][github-logo]][github-url]
 [![GitHub Actions][github-actions-logo]][github-actions-url]
+[![GitHub Copilot][github-copilot-logo]][github-copilot-url]
 [![Visual Studio Code][vs-code-logo]][vs-code-url]
-[![IntelliJ IDEA][intellij-idea-logo]][intellij-idea-url]
+[![Azure][azure-logo]][azure-url]
 [![Heroku][heroku-logo]][heroku-url]
 [![Jira][jira-logo]][jira-url]
 [![Docker][docker-logo]][docker-url]
@@ -78,10 +79,12 @@ val yourNextDeveloper: Developer = Developer(
 [git-url]: https://git-scm.com/
 [github-actions-logo]: https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge
 [github-actions-url]: https://github.com/features/actions
+[github-copilot-logo]: https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white
+[github-copilot-url]: https://github.com/copilot
 [vs-code-logo]: https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge
 [vs-code-url]: https://code.visualstudio.com/
-[intellij-idea-logo]: https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge
-[intellij-idea-url]: https://www.jetbrains.com/idea/
+[azure-logo]:https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white
+[azure-url]: https://azure.microsoft.com/en-us
 [heroku-logo]:https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe&style=for-the-badge
 [heroku-url]:https://www.heroku.com/
 [jira-logo]: https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge
