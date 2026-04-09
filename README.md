@@ -44,8 +44,10 @@ val yourNextDeveloper: Developer = Developer(
 [![Jira][jira-logo]][jira-url]
 [![Docker][docker-logo]][docker-url]
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaajanne&show_icons=true&theme=dark&locale=en&layout=compact" alt="devaajanne" /></p>
-
+<div align="center">
+    <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=devaajanne&theme=dark&show_icons=true&hide_rank=true&card_width=310" alt="GitHub Stats" height="180"  style="margin-right: 16px;"/>
+    <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=devaajanne&theme=dark&layout=compact" alt="Top Languages" height="180"/>
+</div>
 
 [badges-repo]: https://github.com/inttter/md-badges
 
